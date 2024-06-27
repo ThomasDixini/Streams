@@ -1,6 +1,5 @@
 import java.util.List;
 import java.util.function.BinaryOperator;
-import java.util.stream.Stream;
 
 public class reducingStream {
     public static void main(String[] args) {
